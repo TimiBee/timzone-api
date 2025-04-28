@@ -56,3 +56,9 @@ The React frontend will interact with this API using standard HTTP requests for 
 * **Search Functionality:** Enabling users to search through messages or channels.
 
 This Tim-zone API is a crucial component of my larger goal to build a functional and engaging chatting platform. I am committed to developing a well-structured, efficient, and maintainable backend that effectively supports the real-time communication needs of the frontend application.
+
+## Authur 
+
+* **Timi B**
+
+
