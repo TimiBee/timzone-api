@@ -20,10 +20,10 @@ The **Tim-zone API** serves as the backend infrastructure for a real-time chatti
 * **Java:** The core programming language for its performance, scalability, and extensive ecosystem.
 * **Spring Framework (Boot/Web/WebSocket):** Leverage Spring's capabilities for building the API, handling web requests, and implementing WebSocket for real-time communication. Spring Boot will streamline the setup and configuration.
 * **WebSocket:** The primary protocol for enabling bidirectional, real-time communication between the backend and the frontend.
-* **Database: MySQL:** To persist user data, chat messages, and channel information. The specific choice will depend on the project's evolving needs for relational or non-relational data.
+* **Database: (MySQL):** To persist user data, chat messages, and channel information. The specific choice will depend on the project's evolving needs for relational or non-relational data.
 * **Authentication and Authorization: Spring Security:** To secure the API endpoints and manage user access. JSON Web Tokens 
-* **Build Tool Maven:** To manage project dependencies and build the application.
-* **Testing Framework JUnit:** To ensure the reliability and correctness of the API through unit and integration tests.
+* **Build Tool (Maven):** To manage project dependencies and build the application.
+* **Testing Framework (JUnit):** To ensure the reliability and correctness of the API through unit and integration tests.
 
 
 ## API Endpoints (Anticipated)
