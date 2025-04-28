@@ -1,4 +1,4 @@
-# Tim-zone API: Backend for a Real-time Chatting Platform
+# Tim-zone API: Real-time Chatting Platform
 
 ## Project Intention
 
