@@ -41,7 +41,7 @@ While subject to change as development progresses, here are some initial API end
 * `/api/channels/{channelId}/leave`: Leave a specific channel.
 * `/ws/chat`: WebSocket endpoint for real-time message exchange within channels.
 * `/api/messages/{channelId}`: Get historical messages for a specific channel.
-* `/api/messages/{channelId}`: Send a new message to a channel (likely handled via WebSocket).
+* `/api/messages/{channelId}`: Send a new message to a channel.
 
 ## Integration with React Frontend
 
